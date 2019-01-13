@@ -13,5 +13,6 @@ public class Main {
         System.out.println("------喝咖啡任务------");
         template = new CoffeeTask();
         template.任务();
+        
     }
 }
